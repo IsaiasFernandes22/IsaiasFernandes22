@@ -1,6 +1,7 @@
 ### Hello stalker 😆
-### - Bem vindo(a) ao meu perfil do GitHub 
-  
+### - Bem vindo(a) ao meu perfil do GitHub 😀
+### - Explore bastante! 🥰
+
   ##
   
 <div align="center">
