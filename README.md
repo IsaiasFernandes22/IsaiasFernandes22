@@ -1,6 +1,6 @@
 ### Hello stalker, sou o Isaias, estudante de programação e é isso tamo junto
-### - Bem vindo(a) ao meu perfil do GitHub 😀
-### - Explore bastante
+  ##
+
 <div align="center">
 <a href="https://github.com/Enriyuu">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Enriyuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
