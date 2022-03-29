@@ -4,12 +4,6 @@
   <p align="center">Estudo Programação na Universidade Estadual da Paraíba (UEPB)
  
 </div>
-
-
-<!-- <h1 align="center"> 
-  Trybe
-</h1>
-
 <p a</p> -->
 
 <div align="center">
@@ -35,14 +29,6 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Enriyuu/Enriyuu/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
-
-
-  
