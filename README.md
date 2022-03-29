@@ -1,26 +1,48 @@
-### Hello stalker, sou o Isaias, estudante de programação e é isso tamo junto
-  ##
+  </div>
+  
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/isaias-fernandes-ab99b6230/"><i>Isaias Fernandes</i></a> 😃️</h1>
+  <p align="center">Estudo Programação na Universidade Estadual da Paraíba (UEPB)
+ 
+</div>
+
+
+<!-- <h1 align="center"> 
+  Trybe
+</h1>
+
+<p a</p> -->
 
 <div align="center">
-<a href="https://github.com/Enriyuu">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Enriyuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enriyuu&theme=tokyonight">
+  <a href="https://github.com/Enriyuu">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Enriyu&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enriyu&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Lfer-pic" height="150" style="border-radius:50px;" src="https://scontent.fjdo1-2.fna.fbcdn.net/v/t39.30808-6/277585595_1931567133689851_7541836291340994912_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEDFXtuopnt5sw6Voy2IrH80nzxP7N2qx7SfPE_s3arHrIzw-sLozZ_8GNgr5Lj4Y4vwxuuf2NuOMqFUl-Jcajx&_nc_ohc=sLlCmTAtNoQAX_7PuOq&_nc_ht=scontent.fjdo1-2.fna&oh=00_AT9i1t2WwXeDlP06K8v78fEpJ4sogevvkF4ZqmcHnU4uxg&oe=6246C698"
-</div>
-  
-  ##
-  
-  <div>
-    <a href="https://instagram.com/is,lfer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/Enriyu#0942" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gm3r23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<div align="center" valign="top"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div><br>
+
+<div align="center">
+  <a href="https://www.instagram.com/is.lfer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isaias-fernandes-ab99b6230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-  ![Snake animation](https://github.com/Enriyuu/Enriyuu/blob/output/github-contribution-grid-snake.svg)
-    
+  <a href="mailto:gm3r23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<div align="center">
+  <p>Feito com :heart: e JavaScript.</p>
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+</div>
+
 
   
