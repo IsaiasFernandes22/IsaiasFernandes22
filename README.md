@@ -1,4 +1,4 @@
-### Hello stalker 😆
+### Hello stalker, sou o Isaias, estudante de programação e é isso tamo junto
 ### - Bem vindo(a) ao meu perfil do GitHub 😀
 ### - Explore bastante! 🥰
 
