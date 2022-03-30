@@ -1,6 +1,6 @@
   </div>
   
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/isaias-fernandes-ab99b6230/"><i>Isaias Fernandes</i></a> 😃️</h1>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/isaias-fernandes-ab99b6230/"><i>Isaias</i></a> 😃️</h1>
   <p align="center">Estudo Ciências da Computação na Universidade Estadual da Paraíba (UEPB)
  
 </div>
