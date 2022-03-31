@@ -1,7 +1,7 @@
   </div>
   
   <h1 align="center">Hey, how's it going? I am <a href="https://www.linkedin.com/in/isaias-fernandes-ab99b6230/"><i>Isaias</i></a> 🇧🇷 😃️</h1>
-  <p align="center">Estudo Ciências da Computação na Universidade Estadual da Paraíba (UEPB)
+  <p align="center">Study Computer Science at the State University of Paraíba / Brazil 💻
  
 </div>
 <p a</p>
@@ -25,5 +25,3 @@
   ![Snake animation](https://github.com/Enriyuu/Enriyuu/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
-Obrigado pela visita
