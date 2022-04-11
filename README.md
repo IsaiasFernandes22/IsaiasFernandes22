@@ -1,6 +1,6 @@
   </div>
   
-  <h1 align="center">Hey, how's it going? I am <a href="https://www.linkedin.com/in/isaias-fernandes-ab99b6230/"><i>Isaias</i></a> 🇧🇷 😃️</h1>
+  <h1 align="center">Hey, how's it going? I am <a href="https://www.linkedin.com/in/isaias-fernandes-ab99b6230/"><i>Isaias Fernandes</i></a> 😃️</h1>
   <p align="center">Study Computer Science at the State University of Paraíba / Brazil 💻
  
 </div>
@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/Enriyuu">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enriyu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enriyuu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noemimedeiros&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
