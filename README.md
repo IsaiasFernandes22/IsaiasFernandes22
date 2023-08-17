@@ -20,8 +20,4 @@
 
 <div align="center">
   
-  ##
-  
-  ![Snake animation](https://github.com/Enriyuu/Enriyuu/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
