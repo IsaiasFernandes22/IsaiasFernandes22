@@ -1,6 +1,6 @@
   </div>
   
-  <h1 align="center">Welcome to my profile<a href="https://www.linkedin.com/in/isaias-fernandes-ab99b6230/"><i>Isaias Fernandes</i></a> 😃️</h1>
+  <h1 align="center">Welcome to my profile<a href="https://www.linkedin.com/in/isaias-fernandes-ab99b6230/"><i></i></a> 😃️</h1>
   <p align="center">Study Computer Science at the State University of Paraíba / Brazil 💻
  
 </div>
