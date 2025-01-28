@@ -1,7 +1,7 @@
   </div>
   
   <h1 align="center">Welcome to my profile<a href="https://www.linkedin.com/in/isaias-fernandes-ab99b6230/"><i></i></a> 😃️</h1>
-  <p align="center">I'm a C# developer 💻
+  <p align="center">I'm a developer 
  
 </div>
 <p a</p>
